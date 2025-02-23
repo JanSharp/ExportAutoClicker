@@ -44,11 +44,11 @@ function exportAt(index)
               return;
             console.log(`Exporting ${index}!`);
             label.innerText = "Exporting!";
-            // startExportButton.click();
-            setTimeout(() => {
-              let closeButton = exportPopupWindow.lastChild.firstChild;
-              closeButton.click();
-            }, 100);
+            startExportButton.click();
+            // setTimeout(() => {
+            //   let closeButton = exportPopupWindow.lastChild.firstChild;
+            //   closeButton.click();
+            // }, 100);
           }, 320);
         }, 320);
       }, 320);
