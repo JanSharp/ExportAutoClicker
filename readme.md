@@ -11,6 +11,8 @@ These inserted buttons, when pressed, will auto click the three dots on the righ
 
 # Installation and Usage
 
+- Use a chromium based browser
+  - If you're using a browser in the Firefox family, I can recommend temporarily using [Vivaldi](https://vivaldi.com) or [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)
 - Click the green `Code` button at the top
 - Download the zip file
 - Extract it
