@@ -28,4 +28,5 @@ These inserted buttons, when pressed, will auto click the three dots on the righ
 - Click through to whichever page you want to export VODs to YouTube from
 - Click the `Export Auto Clicker` button (`E`) in your pinned extensions
 - Click `Add Export Buttons`
+  - If it does nothing, try disabling any other extensions you have affecting the page, most likely/notably twitch specific extensions
 - Click `^ Start Export ^` for the VOD you wish to export
