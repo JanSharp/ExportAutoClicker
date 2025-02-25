@@ -30,3 +30,4 @@ These inserted buttons, when pressed, will auto click the three dots on the righ
 - Click `Add Export Buttons`
   - If it does nothing, try disabling any other extensions you have affecting the page, most likely/notably twitch specific extensions
 - Click `^ Start Export ^` for the VOD you wish to export
+  - If it doesn't end up pressing the 3 buttons in sequence (three dots, export, start export), again try disabling other extensions, like mentioned above
